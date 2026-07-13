@@ -1,0 +1,22 @@
+.gift-guide-banner {
+  padding: 120px 0;
+  text-align: center;
+}
+
+.gift-guide-banner h1 {
+  font-size: 72px;
+  font-weight: 700;
+}
+
+.gift-guide-banner p {
+  max-width: 650px;
+  margin: 30px auto;
+}
+
+.gift-btn {
+  display: inline-block;
+  padding: 16px 34px;
+  background: #000;
+  color: #fff;
+  text-decoration: none;
+}
